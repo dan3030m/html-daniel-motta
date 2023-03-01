@@ -1,6 +1,7 @@
-h1 {
+#motta {
   color: aqua;
   font-size: 70px;
   text-align: center;
-  background-color: black;
+  background-color: rgb(224, 143, 143);
+  text-shadow: 3px 3px black;
 }
