@@ -6,37 +6,38 @@
   text-shadow: 3px 3px black;
 }
 
-#yo {
+#y1 {
   color:red;
   font-size: 24px;
   text-align: center;
   background-color: yellow;
 }
 
-#p3 {
+#y2 {
   color: green;
   font-size: 24px;
   text-align: center;
   background-color: pink 
 }
 
-#p4 {
+.linea3y4 {
   color: white;
   font-size: 15px;
   text-align: left;
   background-color: black
 }
 
-#p5 {
+.linea5y6 {
   color: blue;
   font-size: 16px;
   text-align: left;
   background-color:
 }
 
-#p6 {
+#y3 {
   color: negro;
-  font-size: 15px;
+  font-size: 30px;
   text-align: left;
-  background-color: 
+  background-color; 
+  text-shadow: 3px 3px black;
 }
